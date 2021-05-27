@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AkshataGirkar
+- 👀 I’m interested in Fullstack Web Development
+- 🌱 I’m currently learning reactjs and nodejs
+- 💞️ I like to read posts/blogs on inspirations, web designs trends and tricks, new frameworks, etc.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/akshata-girkar-469214191/)
