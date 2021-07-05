@@ -11,8 +11,8 @@
   <a href=""><img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white"></a> 
   <a href=""><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"></a> 
   <a href=""><img src="https://img.shields.io/badge/JavaScript%20ES6-orange?style=for-the-badge&logo=javascript"></a> 
-  <a href=""><img src="https://img.shields.io/badge/PHP7-blue?style=for-the-badge&logo=php"></a> 
-  <a href=""><img src="https://img.shields.io/badge/MySQL-pink?style=for-the-badge&logo=mysql"></a> 
+  <a href=""><img src="https://img.shields.io/badge/PHP7-darkblue?style=for-the-badge&logo=php"></a> 
+  <a href=""><img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql"></a> 
 <a href=""><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/CanvasJS-pink?style=for-the-badge"></a> 
