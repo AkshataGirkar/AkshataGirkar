@@ -1,5 +1,5 @@
 # <p align="center"> 👋 Hi, I’m Akshata Sunil Girkar</p>
-### <p align="center">A Full Stack PHP Web Developer </p>
+### <p align="center">A Full Stack Web Developer </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/akshata-girkar-469214191/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.behance.net/akshata-girkar/"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
@@ -13,7 +13,7 @@
   <a href=""><img src="https://img.shields.io/badge/JavaScript%20ES6-orange?style=for-the-badge&logo=javascript"></a> 
   <a href=""><img src="https://img.shields.io/badge/PHP7-darkblue?style=for-the-badge&logo=php"></a> 
   <a href=""><img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql"></a> 
-<a href=""><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href=""><img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/CanvasJS-pink?style=for-the-badge"></a> 
 </p>
