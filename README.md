@@ -15,7 +15,7 @@
   <a href=""><img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql"></a> 
 <a href=""><img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/CanvasJS-pink?style=for-the-badge"></a> 
+
 </p>
 <p align="center">
   <a href=""><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGirkar&layout=compact&theme=dark" height="170"></a>
